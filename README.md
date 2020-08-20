@@ -1,2 +1,2 @@
 # integration-tests
-Pit Talk on Integration tests
+Pit Talk on Integration Tests
